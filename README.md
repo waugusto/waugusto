@@ -17,6 +17,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Qlik Sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=QlikSense&logoColor=007ACC)&nbsp;
-
+![Qlik View](https://img.shields.io/badge/QlikView-05122A?style=flat&logo=Qlik)&nbsp;
 
 <br><br>
