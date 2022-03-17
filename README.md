@@ -1,13 +1,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou Wellington Augusto</h1>
 
-- 🔥 Sênior Web Developer focado em ajudar pessoas a começar a programar
-
+- 🔥 Business Intelligence - BI e sênior Web Developer 
+- 
 - 💻 Transformo Dados em Informações Estratégicas!
 
 - 💼 Atualmente estou trabalhando na [Toccato](https://toccato.com.br/)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [wuaugusto](https://waugusto.com.br)
-- 
+
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, Node.JS, SQL, Qlik Sense, Qlik View, Mashup **
 
 <br><br>
