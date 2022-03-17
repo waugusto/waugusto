@@ -1,12 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wellington Augusto</h1>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-- 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔥 Sênior Web Developer focado em ajudar pessoas a começar a programar
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 💻 | Transformo Dados em Informações Estratégicas!
+
+- 🔭 atualmente estou trabalhando na [Toccato](https://toccato.com.br/)
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [wuaugusto](https://waugusto.com.br)
 - 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, SQL, Qlik Sense, Qlik View, Mashup **
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, Node.JS, SQL, Qlik Sense, Qlik View, Mashup **
 
 <br><br>
 
