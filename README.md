@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, SQL, Qlik Sense, Qlik View, Mashup **
 <br><br>
@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Qlik Sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=Qlik&logoColor=007ACC)&nbsp;
+![Qlik Sense](https://img.shields.io/badge/-QlikSense-05122A?style=flat&logo=QlikSense&logoColor=007ACC)&nbsp;
 
 
 <br><br>
