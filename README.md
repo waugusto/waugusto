@@ -1,10 +1,10 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wellington Augusto</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou Wellington Augusto</h1>
 
 - 🔥 Sênior Web Developer focado em ajudar pessoas a começar a programar
 
-- 💻 | Transformo Dados em Informações Estratégicas!
+- 💻 Transformo Dados em Informações Estratégicas!
 
-- 🔭 atualmente estou trabalhando na [Toccato](https://toccato.com.br/)
+- 💼 Atualmente estou trabalhando na [Toccato](https://toccato.com.br/)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [wuaugusto](https://waugusto.com.br)
 - 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
