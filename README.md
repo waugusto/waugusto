@@ -1,10 +1,8 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou Wellington Augusto</h1>
 
-- 🔥 Business Intelligence - BI e sênior Web Developer 
-- 
-- 💻 Transformo Dados em Informações Estratégicas!
+- 🔥 Business Intelligence - BI e sênior Web Developer
 
-- 💼 Atualmente estou trabalhando na [Toccato](https://toccato.com.br/)
+- 💻 Transformo Dados em Informações Estratégicas!
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [wuaugusto](https://waugusto.com.br)
 
